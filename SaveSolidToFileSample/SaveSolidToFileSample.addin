@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command SaveSolidToFileSample</Text>
+    <Description>Some description for SaveSolidToFileSample</Description>
+    <Assembly>SaveSolidToFileSample.dll</Assembly>
+    <FullClassName>SaveSolidToFileSample.Command</FullClassName>
+    <ClientId>e4168f3f-fef1-4c1a-ba77-ace8346ea772</ClientId>
+    <VendorId>IVC</VendorId>
+    <VendorDescription>iv-com.ru</VendorDescription>
+  </AddIn>
+</RevitAddIns>
